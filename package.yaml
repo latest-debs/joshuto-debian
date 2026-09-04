@@ -1,0 +1,8 @@
+# Package definition for joshuto
+
+package_name: joshuto
+github_repo: kamiyaa/joshuto
+artifact_format: tar.gz
+description: "ranger-like terminal file manager written in Rust"
+
+# Build for all Debian suites and all supported architectures.
